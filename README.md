@@ -274,4 +274,4 @@ For questions about this project:
 
 ---
 
-**Last Updated**: October 23, 2025
+**Last Updated**: December 4, 2025
